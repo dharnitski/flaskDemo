@@ -7,5 +7,6 @@
 
 ## How to run
 
-    export FLASK_APP=hello.py
-    flask run
+    $ export FLASK_APP=flaskr
+    $ export FLASK_ENV=development
+    $ flask run
