@@ -21,4 +21,14 @@
 
 # How to run tests
 
+Just tests:
+
     $ pytest
+
+Tests with coverage:
+
+    $ coverage run -m pytest
+    $ coverage report
+    $ coverage report
+
+Open `htmlcov/index.html` in your browser to see the report
